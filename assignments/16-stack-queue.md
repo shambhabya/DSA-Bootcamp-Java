@@ -24,7 +24,7 @@
 - [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
 - [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`
 - [Task Scheduler](https://leetcode.com/problems/task-scheduler/) `leetcode`
-- [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/) `GFG`
+- [Stock span problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1/) `GFG` 'basic e hoi, just nice trick eta aseh count kora while using a stack, so sabi ebar'
 - [Max Rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1/) `GFG`
 - [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) `Google` `GFG`
 - [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1/) `GFG`
